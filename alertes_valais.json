@@ -1,0 +1,18 @@
+[
+  {
+    "id": "alerte_001",
+    "title": "Accident",
+    "snippet": "Accident à la sortie de Sion direction Martigny",
+    "lat": 46.225,
+    "lng": 7.3611,
+    "timestamp": "2025-05-15T10:30:00"
+  },
+  {
+    "id": "alerte_002",
+    "title": "Ralentissement",
+    "snippet": "Bouchon signalé à Conthey centre commercial",
+    "lat": 46.24,
+    "lng": 7.346,
+    "timestamp": "2025-05-15T09:55:00"
+  }
+]
